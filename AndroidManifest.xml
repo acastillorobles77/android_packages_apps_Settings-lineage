@@ -4534,6 +4534,7 @@
                 <data android:scheme="settings"
                       android:host="com.android.settings.backup.transport" />
             </intent-filter>
+        </activity>
 
         <!-- Face unlock -->
         <activity android:name="com.android.settings.custom.biometrics.face.FaceEnrollActivity"
