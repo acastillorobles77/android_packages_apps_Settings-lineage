@@ -4533,6 +4533,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <data android:scheme="settings"
                       android:host="com.android.settings.backup.transport" />
+            </intent-filter>
 
         <!-- Face unlock -->
         <activity android:name="com.android.settings.custom.biometrics.face.FaceEnrollActivity"
